@@ -123,6 +123,15 @@ Feel free to submit issues and pull requests. Areas for potential improvement:
 - Qwen team for the LLM model
 - Ollama for model serving
 
+  
+---
+## Dependencies: 
+
+- ollama installed locally - https://ollama.com/
+- pulled the model from ollama 'qwen2.5:14b' (9gb) - http://ollama.com/library/qwen2.5:14b
+---
+
+
 ## Known issues
 
 - King moves, the sequencial move is not implimented fully. The groundwork is there, but I just never got around to executing. Sorry
