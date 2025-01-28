@@ -3,6 +3,7 @@ Qwen2.5:14b but as checkers. This comes with a simple interface that user can in
 
 
 
+![image](https://github.com/user-attachments/assets/cb12023c-7672-4fb5-a091-63504cbc911b)
 
 
 
